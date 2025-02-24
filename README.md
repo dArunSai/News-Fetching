@@ -30,15 +30,15 @@ A simple and efficient API to fetch the latest news from various sources. It all
 
 4. Launch the HTML file in your default browser:
 
-On Windows, use:
+   On Windows, use:
 
-```bash
-start index.html
-```
+   ```bash
+   start index.html
+   ```
 
-On Mac or Linux, use:
+   On Mac or Linux, use:
 
-```bash
-open index.html
+   ```bash
+   open index.html
 
-```
+   ```
