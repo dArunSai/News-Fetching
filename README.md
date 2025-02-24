@@ -22,8 +22,23 @@ A simple and efficient API to fetch the latest news from various sources. It all
    npm install
    ```
 
-3. Usage :
+3. change the directory:
 
    ```bash
-   npm start
+   cd News-Fetching
    ```
+
+4. Launch the HTML file in your default browser:
+
+On Windows, use:
+
+```bash
+start index.html
+```
+
+On Mac or Linux, use:
+
+```bash
+open index.html
+
+```
