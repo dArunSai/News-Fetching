@@ -13,19 +13,19 @@ A simple and efficient API to fetch the latest news from various sources. It all
 1. Clone the repository:
 
 ```bash
-  git clone https://github.com/dArunSai/News-Fetching.git
+git clone https://github.com/dArunSai/News-Fetching.git
 ```
 
 2. Install dependencies :
 
 ```bash
-   npm install
+npm install
 ```
 
 3. change the directory:
 
 ```bash
-   cd News-Fetching
+cd News-Fetching
 ```
 
 4. Launch the HTML file in your default browser:
