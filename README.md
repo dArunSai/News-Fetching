@@ -13,7 +13,7 @@ A simple and efficient API to fetch the latest news from various sources. It all
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/dArunSai/news-fetching-api.git
+   git clone https://github.com/dArunSai/News-Fetching.git
    ```
 
 2. Install dependencies :
